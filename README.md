@@ -5,4 +5,9 @@ This is my first text for test
 
 ## subheader
 
-Watch tut 
+Watch tutorial 
+
+## Local dev 
+
+1. Open index.html in your browser.
+
